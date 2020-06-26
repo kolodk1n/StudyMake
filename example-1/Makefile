@@ -1,5 +1,6 @@
 # Простой make-file без переменных, для релиза и дебага
 
+
 .PHONY: all debug release clean
 
 all: debug release
